@@ -1,6 +1,7 @@
 {
     "blogPosts": [
-        {
+        {   
+            "id": 1,
             "name": "Something silly",
             "featuredImage": "https://picsum.photos/200/300",
             "nameOfTheAuthor": "Kingsley",
