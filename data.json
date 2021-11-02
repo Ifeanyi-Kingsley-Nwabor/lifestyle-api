@@ -2,11 +2,51 @@
     "blogPosts": [
         {   
             "id": 1,
-            "name": "Something silly",
-            "featuredImage": "https://picsum.photos/200/300",
-            "nameOfTheAuthor": "Kingsley",
+            "name": "Health and Wellness: Feet",
+            "featuredImage": "./img/woman_active.jpeg",
+            "nameOfTheAuthor": "Ifeanyi Kingsley Nwabor",
             "dateCreated": "Thu Oct 21 2021 16:12:01 GMT+0100 (Western European Summer Time)",
-            "description": "Some long text"
+            "description": "When was the last time you took proper care of your feet? The feet is the body's most sensitive nerve endings and energy centres. All of our body's systems flow through the feet which is responsible for maintaining healthy blood flow to the whole body. "
+        },
+        {   
+            "id": 1,
+            "name": "Health and Wellness: Feet",
+            "featuredImage": "https://picsum.photos/200/300",
+            "nameOfTheAuthor": "Ifeanyi Kingsley Nwabor",
+            "dateCreated": "Thu Oct 21 2021 16:12:01 GMT+0100 (Western European Summer Time)",
+            "description": "When was the last time you took proper care of your feet? The feet is the body's most sensitive nerve endings and energy centres. All of our body's systems flow through the feet which is responsible for maintaining healthy blood flow to the whole body. "
+        },
+        {   
+            "id": 1,
+            "name": "Health and Wellness: Feet",
+            "featuredImage": "https://picsum.photos/200/300",
+            "nameOfTheAuthor": "Ifeanyi Kingsley Nwabor",
+            "dateCreated": "Thu Oct 21 2021 16:12:01 GMT+0100 (Western European Summer Time)",
+            "description": "When was the last time you took proper care of your feet? The feet is the body's most sensitive nerve endings and energy centres. All of our body's systems flow through the feet which is responsible for maintaining healthy blood flow to the whole body. "
+        },
+        {   
+            "id": 1,
+            "name": "Health and Wellness: Feet",
+            "featuredImage": "https://picsum.photos/200/300",
+            "nameOfTheAuthor": "Ifeanyi Kingsley Nwabor",
+            "dateCreated": "Thu Oct 21 2021 16:12:01 GMT+0100 (Western European Summer Time)",
+            "description": "When was the last time you took proper care of your feet? The feet is the body's most sensitive nerve endings and energy centres. All of our body's systems flow through the feet which is responsible for maintaining healthy blood flow to the whole body. "
+        },
+        {   
+            "id": 1,
+            "name": "Health and Wellness: Feet",
+            "featuredImage": "https://picsum.photos/200/300",
+            "nameOfTheAuthor": "Ifeanyi Kingsley Nwabor",
+            "dateCreated": "Thu Oct 21 2021 16:12:01 GMT+0100 (Western European Summer Time)",
+            "description": "When was the last time you took proper care of your feet? The feet is the body's most sensitive nerve endings and energy centres. All of our body's systems flow through the feet which is responsible for maintaining healthy blood flow to the whole body. "
+        },
+        {   
+            "id": 1,
+            "name": "Health and Wellness: Feet",
+            "featuredImage": "https://picsum.photos/200/300",
+            "nameOfTheAuthor": "Ifeanyi Kingsley Nwabor",
+            "dateCreated": "Thu Oct 21 2021 16:12:01 GMT+0100 (Western European Summer Time)",
+            "description": "When was the last time you took proper care of your feet? The feet is the body's most sensitive nerve endings and energy centres. All of our body's systems flow through the feet which is responsible for maintaining healthy blood flow to the whole body. "
         }
     ]
 }
