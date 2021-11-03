@@ -10,6 +10,7 @@ const upload = require("./utils/imageUploader");
 
 const postRouter = require('./routes/postRouter');
 const authorRouter = require('./routes/authorRouter');
+const messageRouter = require('./routes/messageRouter');
 
 
 const port = process.env.PORT || 3004;
@@ -20,6 +21,8 @@ app.use(morgan("dev"));
 app.use(helmet());
 app.use('/api/posts', postRouter);
 app.use('/api/authors', authorRouter);
+app.use('/api/contact_messages', messageRouter);
+
 
 
 //app.use(express.static(path.join(__dirname, "/images")));
